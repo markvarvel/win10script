@@ -1,4 +1,6 @@
 # Active the Script
+Open Powershell with admin rights, then past in the next line.
+
 iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))
 
 # win10script
